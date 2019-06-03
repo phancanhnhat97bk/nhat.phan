@@ -1,0 +1,22 @@
+1.Lab :
+-WireShark 	: T?n công b?t gói tin
+-CainAbel	: Sniffer, b? khóa pass
+-Nmap		: Quét c?ng d?ch v?
+nettet , tini,icmd : Tro?n ,malivare
+==========>
+
+2.Firewall :
+VM ubuntu :ptasle, DHCP ,DNS
+VM XInServer :Firewall,....
+
+===============================================================
+T?N CÔNG SQL Injection
+1,Gi?i thi?u:
+-T?n công web :
+	+SQL ?nection
+	+XSS
+	+HTTP Dos
+-T?n công SQL Injection:
+	+ S? d?ng URL
+	+ S/d?ng ô nh?p d? li?u
+	+ S? d?ng stored Procedure
